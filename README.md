@@ -1,23 +1,12 @@
 <div align="center">
 
-# 🌐 Gothwad TV Browser
+# 🌐 XBrowser
 ### *The Ultimate Desktop-Grade Web Browser for Android TVs, Tablets, Phones, Linux, Windows & macOS*
 
 [![Platform](https://img.shields.io/badge/Platforms-Android%20TV%20%7C%20Tablets%20%7C%20Linux%20%7C%20Windows%20%7C%20macOS-4CAF50?style=for-the-badge&logo=android)](https://github.com/GothwadTech/browser)
 [![Engine](https://img.shields.io/badge/Engine-Native%20Chromium%20WebView-4285F4?style=for-the-badge&logo=google-chrome)](https://developer.android.com/develop/ui/views/layout/webapps/webview)
 [![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
 [![Target Size](https://img.shields.io/badge/APK%20Footprint-%3C%2010%20MB-FF5722?style=for-the-badge)](#-engineering-journey--vision)
-[![Made in India](https://img.shields.io/badge/Made%20in%20India-🇮🇳%20With%20Love-FF9933?style=for-the-badge)](#-author--credits)
-[![License: Proprietary](https://img.shields.io/badge/License-Source--Available%20%2F%20All%20Rights%20Reserved-red.svg?style=for-the-badge)](#-proprietary-notice--usage-terms)
-
-<br/>
-
-### 📥 Get Gothwad TV Browser
-
-[![Get on Google Play](https://img.shields.io/badge/Google_Play-Get%20it%20on%20Play%20Store-00875A?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.gothwad.browser)
-[![Get on JioStore](https://img.shields.io/badge/JioStore-Available%20on%20Jio%20Set--Top%20Box-0A2885?style=for-the-badge&logo=reliance&logoColor=white)](https://www.jio.com/fiber/services/set-top-box)
-[![Official Website](https://img.shields.io/badge/Official_Website-Visit%20gothwad.com-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gothwad.com)
-[![Direct Download](https://img.shields.io/badge/GitHub-Download%20Latest%20Release-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GothwadTech/browser/releases)
 
 <br/>
 
