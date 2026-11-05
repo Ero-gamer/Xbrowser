@@ -156,3 +156,12 @@ app/src/main/java/
 - **Android TV / Google TV:** Android 5.0 (API 21) up to Android 14+ (Certified & Non-certified boxes, smart TVs, projector boxes, streaming sticks).
 - **Android Tablets:** Large-screen split-views, multi-window mode, keyboard dock & mouse support.
 - **Android Phones:** Responsive vertical handheld experience with bottom/top navigation.
+
+## Credits:
+
+[tvBro](https://github.com/truefedex/tv-bro)
+[gothwad](https://github.com/GothwadTech/browser)
+
+## License:
+
+GPL v3
